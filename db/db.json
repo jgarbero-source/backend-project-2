@@ -14,7 +14,8 @@
       "gender": "Female",
       "size": "Medium",
       "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/18819150/1/?bust=1300463917",
-      "breed": "American Bobtail"
+      "breed": "American Bobtail",
+      "isFavorite": true
     },
     {
       "id": 45998150,
@@ -22,7 +23,8 @@
       "gender": "Female",
       "size": "Medium",
       "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/45998150/1/?bust=1572567431",
-      "breed": "American Shorthair"
+      "breed": "American Shorthair",
+      "isFavorite": true
     },
     {
       "id": 45999150,
@@ -110,7 +112,8 @@
       "gender": "Male",
       "size": "Large",
       "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/40633150/1/?bust=1515614880",
-      "breed": "Bombay"
+      "breed": "Bombay",
+      "isFavorite": true
     },
     {
       "id": 34429250,
